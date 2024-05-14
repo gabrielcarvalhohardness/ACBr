@@ -33,7 +33,7 @@ Projetos > ACBrLib > Demos > PHP > NFe
         - [ACBRLibNFe](https://www.projetoacbr.com.br/forum/files/file/476-acbrlibnfe-demo/)
         - [ACBrLibBoleto](https://www.projetoacbr.com.br/forum/files/file/472-acbrlibboleto-demo/)
 - [Demo do ACBr Lib com PHP](https://svn.code.sf.net/p/acbr/code/trunk2/Projetos/ACBrLib/Demos/PHP/)
-
+- [PHP CPP para criar extensões php](https://www.php-cpp.com/)
 
 ### Discussões
 - [Discussão sobre a extensão do PHP para o ACBrLib](https://www.projetoacbr.com.br/forum/topic/57880-extens%C3%A3o-php-para-uso-do-acbrlib-online-acbrlibphp) 
